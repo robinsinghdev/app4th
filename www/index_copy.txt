@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-<link href="styles.9c0ad738f18adc3d19ed.bundle.css" rel="stylesheet"/></head><body>
+<link href="styles.9c0ad738f18adc3d19ed.bundle.css" rel="stylesheet"/></head>
 
 <body>
 	<div class="app">
@@ -17,6 +17,10 @@
 	<script type="text/javascript" src="phonegap.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
 
+	<app-root></app-root>
 
+	<script type="text/javascript" src="inline.91b7cdc612e5c5401e2e.bundle.js"></script>
+	<script type="text/javascript" src="polyfills.ef027154635a64c19274.bundle.js"></script>
+	<script type="text/javascript" src="main.fbbcba91bdee7d64538b.bundle.js"></script>
 
-<app-root></app-root><script type="text/javascript" src="inline.63c24f3190c7147866b8.bundle.js"></script><script type="text/javascript" src="polyfills.ef027154635a64c19274.bundle.js"></script><script type="text/javascript" src="main.bec057a1bcf13d7a0451.bundle.js"></script></body></html>
+</body></html>
